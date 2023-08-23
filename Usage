@@ -11,4 +11,4 @@ MOUSE:
 KEYs:
    V toggle between SES type-colored or gray-colored SESs
    P followed by C will color SAS patches in green (C), blue (N), red(O), yellow (S)
-   and mistyrose (H)  with torus/probe SES patches in gray
+   and mistyrose (H) with torus/probe SES patches in gray
