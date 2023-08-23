@@ -3,7 +3,7 @@ A program for the exact computation and triangulation of solvent-excluded surfac
 
 For installation in linux (ubuntu 20.04):
 
-(I): DOWNLOAD "sesxV001.tar.gz"
+(I): DOWNLOAD "sesxV001.tar.gz" (Release/tags)
 
 In USER's home directory:
 
