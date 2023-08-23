@@ -1,14 +1,14 @@
 the program RUNs as 
 ./sesx pdbFile > jj001.log
-   "pdbFile": a PDB file in the currect directory or an absolute path for any PDB file
+   "pdbFile": a PDB file in the currect directory or an absolute path to any PDB file
    " jj001.log" minimum amount of output from sesx, just ignore it :-). 
 
 MOUSE:
- LEFT rotation
- WHILE zoom
+ LEFT  rotation
+ WHeel zoom
  RIGHT translation
 
 KEYs:
-   V toggle between SES type-colored or gray-colored SESs
-   P followed by C will color SAS patches in green (C), blue (N), red(O), yellow (S)
+   V toggle between SES type-colored SES and gray-colored SES
+   P (toggle) followed by C will color SAS patches in green (C), blue (N), red(O), yellow (S)
    and mistyrose (H) with torus/probe SES patches in gray
