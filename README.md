@@ -23,5 +23,5 @@ export LD_LIBRARY_PATH
 
    (1) GO TO ~/softBio/sesx/bin
    
-   (2) run ./sesx
+   (2) RUN ./sesx  or ./sesx PDBfile
 
