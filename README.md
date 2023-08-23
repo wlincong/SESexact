@@ -25,3 +25,7 @@ export LD_LIBRARY_PATH
    
    (2) RUN ./sesx  or ./sesx PDBfile
 
+FOr installtion in Windows 10
+   READ the README file included in "sesExact.zip".
+
+
