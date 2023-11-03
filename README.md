@@ -1,5 +1,5 @@
 # SESexact
-A program for the exact computation and triangulation of solvent-excluded surface i.e. molecular surface.
+A program for the exact computation and triangulation of solvent-excluded surface i.e. molecular surface. Here "exact" triangulation means that each of the three vertices of any surface triangle is computed analytically. 
 
 For installation in linux (ubuntu 20.04):
 
