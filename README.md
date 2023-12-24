@@ -1,9 +1,9 @@
-# SESexact
-A program for the exact computation and triangulation of solvent-excluded surface i.e. molecular surface. Here "exact" triangulation means that each of the three vertices of any surface triangle is computed analytically. 
+# SESx
+A program for the exact (analytic) computation and exact triangulation of solvent-excluded surface i.e. molecular surface. Here "exact" triangulation means that each of the three vertices of any surface triangle is computed analytically. 
 
 For installation in linux (ubuntu 20.04):
 
-(I): DOWNLOAD "sesxV001.tar.gz" (Releases/tags on the right)
+(I): DOWNLOAD "sesxV002.tar.gz" (Releases/tags on the right)
 
 In USER's home directory:
 
@@ -25,7 +25,7 @@ export LD_LIBRARY_PATH
    
    (2) RUN ./sesx  or ./sesx PDBfile
 
-FOr installtion in Windows 10
-   READ the README file included in "sesExact.zip".
+For installation in Windows 10
+   DOWNLOAD "sesX_windows.zip", UNZIP it, GO TO directory sesFinal and FOLLOW the instructions in README.txt
 
 
