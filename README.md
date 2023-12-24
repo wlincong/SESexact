@@ -9,9 +9,9 @@ In USER's home directory:
 
 (1) CREATE a directory called "softBio" (~/sofrBio)
 
-(2) MOVE "sesxV001.tar.gz" to ~/softBio
+(2) MOVE "sesxV002.tar.gz" to ~/softBio
 
-(2) tar -xzvf sesxV001.tar.gz. It will create a directory "sesx"
+(2) tar -xzvf sesxV002.tar.gz. It will create a directory "sesx"
 
 (II) MODIFY .bashrc file by ADDing
 
