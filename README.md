@@ -30,5 +30,8 @@ For installation in Windows 10
 
 For Usage please see "sesx_instruction.pdf"
 
-
+The vidoes that associated with the intstruction are 
+https://www.youtube.com/watch?v=GPd5xR69P-c&t=7s
+https://www.youtube.com/watch?v=vgVB_JylSqI&t=1s
+or seach "shaozi wang" in youtube
 
