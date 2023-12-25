@@ -7,7 +7,7 @@ For installation in linux (ubuntu 20.04):
 
 In USER's home directory:
 
-(1) CREATE a directory called "softBio" (~/sofrBio)
+(1) CREATE a directory called "softBio" (~/softBio)
 
 (2) MOVE "sesxV002.tar.gz" to ~/softBio
 
