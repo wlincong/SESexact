@@ -28,4 +28,7 @@ export LD_LIBRARY_PATH
 For installation in Windows 10
    DOWNLOAD "sesX_windows.zip", UNZIP it, GO TO directory sesFinal and FOLLOW the instructions in README.txt
 
+For Usage please see "sesx_instruction.pdf"
+
+
 
