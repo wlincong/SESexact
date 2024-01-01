@@ -3,15 +3,15 @@ A program for the exact (analytic) computation and exact triangulation of solven
 
 For installation in linux (ubuntu 20.04):
 
-(I): DOWNLOAD "sesxV002.tar.gz" (Releases/tags on the right)
+(I): DOWNLOAD "sesxV002_linux.tar.gz" (Releases/tags on the right)
 
 In USER's home directory:
 
 (1) CREATE a directory called "softBio" (~/softBio)
 
-(2) MOVE "sesxV002.tar.gz" to ~/softBio
+(2) MOVE "sesxV002_linux.tar.gz" to ~/softBio
 
-(2) tar -xzvf sesxV002.tar.gz. It will create a directory "sesx"
+(2) tar -xzvf sesxV002_linux.tar.gz. It will create a directory "sesx"
 
 (II) MODIFY .bashrc file by ADDing
 
@@ -26,7 +26,7 @@ export LD_LIBRARY_PATH
    (2) RUN ./sesx  or ./sesx PDBfile
 
 For installation in Windows 10
-   DOWNLOAD "sesX_windows.zip", UNZIP it, GO TO directory sesFinal and FOLLOW the instructions in README.txt
+   DOWNLOAD "sesxV002_windows.zip", UNZIP it, GO TO directory sesFinal and FOLLOW the instructions in README.txt
 
 For Usage please see "sesx_instruction.pdf"
 
