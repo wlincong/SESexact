@@ -1,4 +1,4 @@
-# SESx
+# sesX
 A program for the exact (analytic) computation and exact triangulation of solvent-excluded surface i.e. molecular surface. Here "exact" triangulation means that each of the three vertices of any surface triangle is computed analytically. 
 
 For installation in linux (ubuntu 20.04):
@@ -7,7 +7,7 @@ For installation in linux (ubuntu 20.04):
 
 In USER's home directory:
 
-(1) CREATE a directory called "softBio" (~/softBio)
+(1) CREATE a directory called "softBio" (~/softBio) 
 
 (2) MOVE "sesxV002_linux.tar.gz" to ~/softBio
 
@@ -35,3 +35,12 @@ https://www.youtube.com/watch?v=GPd5xR69P-c&t=7s
 https://www.youtube.com/watch?v=vgVB_JylSqI&t=1s
 or seach "shaozi wang" in youtube
 
+# sesA
+   A program for the analytic computations of solvent-accessible surface area and solvent-excluded surface area.
+   
+   "sesa_linux.pdf" and "sesa_windows.pdf" are, respectively, the linux and windows instructions for usage and output. 
+   
+   "sesaV001.tar.gz" has the linux files including the binary
+   
+   "sesaV001_windows.zip" has the windows files including the binary
+   
