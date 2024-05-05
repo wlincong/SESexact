@@ -43,4 +43,6 @@ or seach "shaozi wang" in youtube
    "sesaV001.tar.gz" has the linux files including the binary
    
    "sesaV001_windows.zip" has the windows files including the binary
+
+   The same set of files could also be downloaded directly from the "sesA" repository. 
    
